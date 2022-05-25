@@ -1,13 +1,13 @@
 ---
 path: "/"
-title: "About this course"
+title: "About this course (yeni değişiklik)"
 hidden: false
 information_page: true
 banner: true
 sidebar_priority: 7000
 ---
 
-This course is an introductory course to Docker and docker-compose. The course will also look into what different parts web services consist of, such as reverse proxies, databases, etc. Docker can not be installed on faculty computers, so students will need to use their computers to follow the examples outlined in this course material and to complete the exercises.
+gitops süreçleri eklenmiştir otomatik olarak - This course is an introductory course to Docker and docker-compose. The course will also look into what different parts web services consist of, such as reverse proxies, databases, etc. Docker can not be installed on faculty computers, so students will need to use their computers to follow the examples outlined in this course material and to complete the exercises.
 
 ### Prerequisites
 
