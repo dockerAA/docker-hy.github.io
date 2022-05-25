@@ -1,6 +1,6 @@
 ---
 path: "/"
-title: "About this course (yeni değişiklik)"
+title: "About this course (yeni değişiklik -  BE )"
 hidden: false
 information_page: true
 banner: true
